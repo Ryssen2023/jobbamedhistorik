@@ -48,3 +48,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+ger ett felmeddelande om man anger ett värde mindre än 1
+eller större än 1023
